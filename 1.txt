@@ -1,1 +1,2 @@
-This is line 1.1 code
+Line 1 code of GITHUB training ( Online mode )
+
